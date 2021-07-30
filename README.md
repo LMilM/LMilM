@@ -1,7 +1,7 @@
-#### Sou a Livia Mil Martignago
+### Sou a Livia Mil Martignago
 
 
-* :alembic: **Engenheira Química** e trabalho com **estatísticas** para processo de produção :bar_chart:
+* :alembic: **Engenheira Química** e trabalho com **estatísticas** :bar_chart:
 
 * :books: Estou me desafiando e aprendendo programação! :open_book: :seedling:
 
@@ -14,7 +14,7 @@
 
 * **Contato:**  
 <div> 
-  <a href="hhttps://www.linkedin.com/in/livia-mil/" target="_blank"><img align="center" alt="Linkdin" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a> 
+  <a href="hhttps://www.linkedin.com/in/livia-mil/" target="_blank"><img align="center" alt="Linkdin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 </div>  
 
 ###
