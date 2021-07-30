@@ -19,7 +19,7 @@
 
 ###
 
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/LMilM">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LMilM&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMilM&layout=compact&langs_count=7&theme=calm"/>
