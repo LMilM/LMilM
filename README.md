@@ -12,6 +12,8 @@
 <div style="display: inline_block">
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="Power BI" height="50" width="50" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg">
+  <img align="center" alt="Microstrategy" height="50" width="50" src="https://community.microstrategy.com/resource/1540990742000/MSTR_IntelEnterprise">
 </div><br>
 
 **Contato:**  
